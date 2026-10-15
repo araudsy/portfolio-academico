@@ -28,5 +28,5 @@ Python · Portugol · Git · GitHub · HTML/CSS
 
 ## Contato
 
-- LinkedIn: www.linkedin.com/in/yasmin-araujo-5a58762a9
+- LinkedIn: https://www.linkedin.com/https://www.linkedin.com/in/yasmin-araujo-5a58762a9/
 - GitHub: https://github.com/araudsy
