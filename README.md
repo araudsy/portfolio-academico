@@ -30,3 +30,17 @@ Python · Portugol · Git · GitHub · HTML/CSS
 
 - LinkedIn: https://www.linkedin.com/https://www.linkedin.com/in/yasmin-araujo-5a58762a9/
 - GitHub: https://github.com/araudsy
+- ## PortfolioHUB
+
+Este repositório é a base do **PortfolioHUB**, plataforma centralizada para exibir e gerenciar meus projetos e portfólios digitais.
+
+| Componente | Função |
+|---|---|
+| Repositório GitHub | Armazenamento e versionamento dos projetos |
+| GitHub Pages | Vitrine pública do portfólio |
+| Google Docs / Drive | Plano e documentação da implantação |
+| YouTube | Apresentação final |
+
+### Segurança e colaboração
+- Política de segurança: [SECURITY.md](SECURITY.md)
+- Guia de contribuição: [CONTRIBUTING.md](CONTRIBUTING.md)
