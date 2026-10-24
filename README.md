@@ -5,7 +5,7 @@ meu aprendizado em programação e compor meu perfil profissional.
 
 ## Sobre mim
 
-Sou Yasmin Araujo, estudante de Engenharia de Software no CEUB.
+Sou Juliane Yasmin, estudante de Engenharia de Software no CEUB.
 Meu objetivo é atuar na área de Cybersegurança ou Machine Learning.
 
 ## Estrutura do repositório
